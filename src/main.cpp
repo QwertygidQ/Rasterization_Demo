@@ -7,7 +7,7 @@
 
 int main()
 {
-    Model model("obj/african_face.obj");
+    Model model("models/african_face.obj");
 
     Image img(800, 800);
     Pixel red(255, 0, 0), white(255, 255, 255);
